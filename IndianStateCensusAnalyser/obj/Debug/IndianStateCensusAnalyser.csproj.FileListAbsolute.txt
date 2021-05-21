@@ -1,2 +1,10 @@
 C:\Users\Bishal Pradhan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\IndianStateCensusAnalyser.csprojAssemblyReference.cache
 C:\Users\Bishal Pradhan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\IndianStateCensusAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\Bishal Pradhan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\bin\Debug\IndianStateCensusAnalyser.exe.config
+C:\Users\Bishal Pradhan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\bin\Debug\IndianStateCensusAnalyser.exe
+C:\Users\Bishal Pradhan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\bin\Debug\IndianStateCensusAnalyser.pdb
+C:\Users\Bishal Pradhan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\IndianStateCensusAnalyser.exe
+C:\Users\Bishal Pradhan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\IndianStateCensusAnalyser.pdb
+C:\Users\Bishal Pradhan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\bin\Debug\nunit.framework.dll
+C:\Users\Bishal Pradhan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\bin\Debug\nunit.framework.xml
+C:\Users\Bishal Pradhan\source\repos\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\IndianStateCensusAnalyser.csproj.CopyComplete
